@@ -1,0 +1,27 @@
+{
+  "name": "bot-handler",
+  "version": "1.0.0",
+  "description": "simple discord.js handler, with sharding manager",
+  "main": "sharding.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuadJTM/basic-discord.js-v14.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "FuadJTM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuadJTM/basic-discord.js-v14/issues"
+  },
+  "homepage": "https://github.com/FuadJTM/basic-discord.js-v14#readme",
+  "dependencies": {
+    "discord-hybrid-sharding": "^2.1.3",
+    "discord.js": "^14.13.0",
+    "fs": "^0.0.2"
+  }
+}
