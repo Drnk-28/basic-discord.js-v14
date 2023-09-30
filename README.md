@@ -1,6 +1,6 @@
 # hi, welcome to my repository
 
-The first step you have to do is download this repository, or you can also use it fork,
+The first step you have to do is [download this repository](https://github.com/FuadJTM/basic-discord.js-v14/archive/refs/tags/new.zip), or you can also use it fork,
 However, make sure you have installed the latest version of NodeJS, or minimum version `16`
 ```js
 git clone https://github.com/FuadJTM/basic-discord.js-v14.git
