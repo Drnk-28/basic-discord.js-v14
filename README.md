@@ -58,6 +58,8 @@ This is the initial menu you see after using the `!help` command
 and this is after you use the detail command
 ![example](https://cdn.discordapp.com/attachments/1157714561378562149/1157729337034944663/20231001_001426.jpg?ex=6519aaf7&is=65185977&hm=70c9a66fddd3d2eede0b066dd18f59636706f42860e3c448dd5b5a58655082e3&)
 
+If you find errors in this repository, you can write your [problem here](https://github.com/FuadJTM/basic-discord.js-v14/issues)
+
 ### Finish
 hey guys, looks like the bot is active,
 but don't forget to press the star button above okay?
