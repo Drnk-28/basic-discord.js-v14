@@ -6,7 +6,7 @@ However, make sure you have installed the latest version of NodeJS, or minimum v
 git clone https://github.com/FuadJTM/basic-discord.js-v14.git
 ```
 
-after that you can start changing files starting from **`./src/settings/config.js`**
+after that you can start changing files starting from **[`./src/settings/config.js`](https://github.com/FuadJTM/basic-discord.js-v14/blob/288d3b5842cf3fb0c0bbec488e6160afad014eae/src/settings/config.js)**
 code example
 ```js
 const config = {
