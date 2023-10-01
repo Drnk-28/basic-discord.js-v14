@@ -81,7 +81,7 @@ module.exports = {
             let command = readdirSync(`./src/commands/slash/${choice}`)
 
             let cmds = command.map((x) => {
-              let cmd = require(`../../../slash/${choice}/${x}`)
+              let cmd = require(`../../slash/${choice}/${x}`)
 
               return `\n> ${slash(cmd.data.name)}\n> \`${cmd.data.description}\``
             })
