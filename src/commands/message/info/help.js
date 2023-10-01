@@ -21,7 +21,7 @@ module.exports = {
       let commands = readdirSync(`./src/commands/message/${dir}`)
 
       let cmds = commands.map((cmd) => {
-        let files = require(`../../../message/${dir}/${cmd}.js`)
+        let files = require(`../../message/${dir}/${cmd}.js`)
         return files.name || "unknown"
       })
 
